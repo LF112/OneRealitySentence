@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一实无言.</title>
+  
+  <subtitle>OneRealitySentence</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://on.lf.tn/"/>
+  <updated>2019-02-12T12:38:25.460Z</updated>
+  <id>https://on.lf.tn/</id>
+  
+  <author>
+    <name>LF112</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="https://on.lf.tn/2019/02/12/hello-world/"/>
+    <id>https://on.lf.tn/2019/02/12/hello-world/</id>
+    <published>2019-02-12T07:55:16.807Z</published>
+    <updated>2019-02-12T12:38:25.460Z</updated>
+    
+    <content type="html"><![CDATA[<p>一实无言(On.lf.tn)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一实无言(On.lf.tn)&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
